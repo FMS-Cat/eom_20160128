@@ -4,7 +4,8 @@
 
 Raymarching, IFS
 
-[Demo Page](http://fms-cat.github.io/eom_20160128/)
+[Everyday One Motion](http://motions.work/motion/82)  
+[Demo Page](http://fms-cat.github.io/eom_20160128/)  
 
 ## IFS
 
