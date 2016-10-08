@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160121 "IFS Storm"
+# Everyday One Motion - 20160121  
 
-![](20160128.gif)
+"IFS Storm"  
 
-Raymarching, IFS
+![](20160128.gif)  
+
+Raymarching, IFS  
 
 [Everyday One Motion](http://motions.work/motion/82)  
-[Demo Page](http://fms-cat.github.io/eom_20160128/)  
+[Demo Page](http://fms-cat-eom.github.io/20160128/)  
 
 ## IFS
 
